@@ -2,6 +2,20 @@
 
 A real-time desktop application written in Python and PySide6 to monitor the network latency, packet loss, and availability of multiple host destinations.
 
+## Screenshots
+
+### Main Window
+![Main Window](ScreenShot/main_window.png)
+
+### Dashboard
+![Dashboard](ScreenShot/dashboard.png)
+
+### Host Table
+![Host Table](ScreenShot/host_table.png)
+
+### Latency Graph
+![Latency Graph](ScreenShot/latency_graph.png)
+
 ## Features
 
 - **Host Management**: Add, edit, remove, and toggle monitoring on specific hostnames or IP addresses (IPv4/IPv6).
